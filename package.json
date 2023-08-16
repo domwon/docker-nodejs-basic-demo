@@ -1,0 +1,14 @@
+{
+  "name": "docker-nodejs-basic-demo",
+  "version": "1.0.0",
+  "description": "Basic Express app to learn ExpressJS and Docker",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "Dom",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
